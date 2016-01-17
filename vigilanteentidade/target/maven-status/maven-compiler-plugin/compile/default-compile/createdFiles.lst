@@ -1,0 +1,11 @@
+br/com/fences/vigilanteentidade/negocio/Endereco.class
+br/com/fences/vigilanteentidade/negocio/VeiculoImagem.class
+br/com/fences/vigilanteentidade/usuario/constante/CorVeiculo.class
+br/com/fences/vigilanteentidade/autorizacao/Papel.class
+br/com/fences/vigilanteentidade/usuario/constante/TipoVeiculo.class
+br/com/fences/vigilanteentidade/negocio/Usuario.class
+br/com/fences/vigilanteentidade/autorizacao/Permissao.class
+br/com/fences/vigilanteentidade/negocio/Alerta.class
+br/com/fences/vigilanteentidade/autorizacao/Menu.class
+br/com/fences/vigilanteentidade/negocio/Veiculo.class
+br/com/fences/vigilanteentidade/autorizacao/Funcionalidade.class
